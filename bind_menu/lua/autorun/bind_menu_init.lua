@@ -1,1 +1,0 @@
-include("../ttt_bind_menu/bind_menu.lua")
